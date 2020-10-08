@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Editing the second file
+=======
+Editing the second file
+Editing the second file again feature1
+>>>>>>> feature1
